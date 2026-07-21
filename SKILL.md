@@ -50,3 +50,5 @@ Generate dialogue for movie scripts and screenplays that sounds like real people
 ## Reference
 
 See `references/natural-movie-dialogue-techniques.md` for expanded examples, common AI tells, and micro-patterns.
+
+See `references/named-entities.md` for guidance on using proper nouns and named entities naturally (and irreverently when appropriate).
